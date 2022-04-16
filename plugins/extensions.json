@@ -1,0 +1,49 @@
+{
+  "extensions": [
+    {
+      "name": "Patch",
+      "description": "Patch for Oxygen Builder to allow extending it beyond the limits.",
+      "url": "https://wakaloka.com/patch",
+      "img": {
+        "banner": "",
+        "screenshot": ""
+      }
+    },
+    {
+      "name": "Sandbox",
+      "description": "Isolated Environment for Oxygen Builder.",
+      "url": "https://wakaloka.com/sandbox",
+      "img": {
+        "banner": "",
+        "screenshot": ""
+      }
+    },
+    {
+      "name": "Simplified Selector",
+      "description": "Simplified Selector for Oxygen Builder's Editor.",
+      "url": "https://wakaloka.com/simplified-selector",
+      "img": {
+        "banner": "",
+        "screenshot": ""
+      }
+    },
+    {
+      "name": "Oxywind",
+      "description": "<a href=\"https://tailwindcss.com\">Tailwind CSS</a> Integration for Oxygen Builder.",
+      "url": "https://wakaloka.com/oxywind",
+      "img": {
+        "banner": "",
+        "screenshot": ""
+      }
+    },
+    {
+      "name": "OxyMasterStyles",
+      "description": "<a href=\"https://styles.master.co/\">Master Styles</a> Integration for Oxygen Builder.",
+      "url": "https://wakaloka.com/oxymasterstyles",
+      "img": {
+        "banner": "",
+        "screenshot": ""
+      }
+    }
+  ]
+}
