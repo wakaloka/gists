@@ -5,7 +5,7 @@
       "description": "Patch for Oxygen Builder to allow extending it beyond the limits.",
       "url": "https://wakaloka.com/patch",
       "img": {
-        "banner": "",
+        "banner": "https://dplugins.com/wp-content/uploads/2022/04/patch.jpg",
         "screenshot": ""
       }
     },
@@ -23,7 +23,7 @@
       "description": "Simplified Selector for Oxygen Builder's Editor.",
       "url": "https://wakaloka.com/simplified-selector",
       "img": {
-        "banner": "",
+        "banner": "https://dplugins.com/wp-content/uploads/2022/04/Simplified-Selectors.jpg",
         "screenshot": ""
       }
     },
@@ -41,7 +41,7 @@
       "description": "<a href=\"https://styles.master.co/\">Master Styles</a> Integration for Oxygen Builder.",
       "url": "https://wakaloka.com/oxymasterstyles",
       "img": {
-        "banner": "",
+        "banner": "https://dplugins.com/wp-content/uploads/2022/04/Oxymaster-Styles.jpg",
         "screenshot": ""
       }
     }
