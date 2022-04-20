@@ -1,0 +1,10 @@
+{
+    "supported_version": {
+        "version": "4.0-beta.2",
+        "link": "https://oxygenbuilder.com/beta-access/",
+        "sha1_hash": ""
+    },
+    "patched": {
+        "sha1_hash": ""
+    }
+}

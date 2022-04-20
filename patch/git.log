@@ -1,0 +1,11 @@
+commit 2416410f9a0d8d65336fa039eca2f3c21860180c (HEAD -> patch, origin/patch)
+Author: wakaloka-dev <git@wakaloka.com>
+Date:   Wed Apr 20 10:59:41 2022 +0700
+
+    Add the ability to add plain classes into component
+
+commit 12e2899f16e40c072e90702a540563b73c9109a4 (tag: 4.0.beta.2, origin/source, origin/master, source, master)
+Author: wakaloka-dev <git@wakaloka.com>
+Date:   Tue Apr 12 22:56:54 2022 +0700
+
+    4.0.beta.2
