@@ -19,9 +19,9 @@
       }
     },
     {
-      "name": "Simplified Selector",
-      "description": "Simplified Selector for Oxygen Builder's Editor.",
-      "url": "https://wakaloka.com/simplified-selector",
+      "name": "Plain Classes",
+      "description": "Simplified Classes for Oxygen Builder. Wakaloka Plain Classes is a tool that allow you to input plain classes on oxygen editor and bypass many step that run by oxygen selector system.\n\nYou will have no empty css classes rule just to use external css.",
+      "url": "https://wakaloka.com/plain-classes",
       "img": {
         "banner": "https://dplugins.com/wp-content/uploads/2022/04/Simplified-Selectors.jpg",
         "screenshot": ""
@@ -37,7 +37,7 @@
       }
     },
     {
-      "name": "OxyMasterStyles",
+      "name": "Oxyvir",
       "description": "<a href=\"https://styles.master.co/\">Master Styles</a> Integration for Oxygen Builder.",
       "url": "https://wakaloka.com/oxymasterstyles",
       "img": {
