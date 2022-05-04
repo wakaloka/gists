@@ -1,15 +1,6 @@
 {
   "extensions": [
     {
-      "name": "Patch",
-      "description": "Patch for Oxygen Builder to allow extending it beyond the limits.",
-      "url": "https://wakaloka.com/patch",
-      "img": {
-        "banner": "https://dplugins.com/wp-content/uploads/2022/04/patch.jpg",
-        "screenshot": ""
-      }
-    },
-    {
       "name": "Sandbox",
       "description": "Isolated Environment for Oxygen Builder.",
       "url": "https://wakaloka.com/sandbox",
@@ -29,7 +20,7 @@
     },
     {
       "name": "Oxywind",
-      "description": "<a href=\"https://tailwindcss.com\">Tailwind CSS</a> Integration for Oxygen Builder.",
+      "description": "[work in progress] <a href=\"https://tailwindcss.com\">Tailwind CSS</a> Integration for Oxygen Builder.",
       "url": "https://wakaloka.com/oxywind",
       "img": {
         "banner": "https://dplugins.com/wp-content/uploads/edd/2022/03/OxyWind.jpg",
@@ -37,8 +28,8 @@
       }
     },
     {
-      "name": "Oxyvir",
-      "description": "<a href=\"https://styles.master.co/\">Master Styles</a> Integration for Oxygen Builder.",
+      "name": "Virtual Styles",
+      "description": "[work in progress] <a href=\"https://styles.master.co/\">Master Styles</a> Integration for Oxygen Builder.",
       "url": "https://wakaloka.com/oxymasterstyles",
       "img": {
         "banner": "https://dplugins.com/wp-content/uploads/2022/04/Oxymaster-Styles.jpg",
